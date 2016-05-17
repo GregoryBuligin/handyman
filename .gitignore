@@ -1,0 +1,8 @@
+*.py[cod]
+*.swp
+*.sqlite3
+media
+templates
+static
+*.git
+__pycache__

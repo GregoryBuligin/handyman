@@ -1,0 +1,35 @@
+[
+    {
+        "model": "service.service",
+        "pk": 3,
+        "fields": {
+            "title": "ser1",
+            "discription": "ser1",
+            "price": 1,
+            "capture": "service/2016/05/13/bat10.jpg",
+            "category": 8
+        }
+    },
+    {
+        "model": "service.service",
+        "pk": 4,
+        "fields": {
+            "title": "ser2",
+            "discription": "ser2",
+            "price": 2,
+            "capture": "service/2016/05/13/bat2.jpg",
+            "category": 8
+        }
+    },
+    {
+        "model": "service.service",
+        "pk": 5,
+        "fields": {
+            "title": "ser3",
+            "discription": "ser3",
+            "price": 1000,
+            "capture": "service/2016/05/17/Firefox_wallpaper.png",
+            "category": 9
+        }
+    }
+]

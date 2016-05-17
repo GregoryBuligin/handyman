@@ -1,0 +1,74 @@
+[
+    {
+        "model": "account.account",
+        "pk": 1,
+        "fields": {
+            "password": "pbkdf2_sha256$24000$gnQI7Dn26Vw0$qKEi+wT9wVzonoZoTucCDYO1205p8uwAa/2N8GQtb3I=",
+            "last_login": "2016-05-13T13:52:54.602Z",
+            "email": "gri9996@yandex.ru",
+            "username": "admin",
+            "first_name": "admin",
+            "last_name": "admin",
+            "avatar": "",
+            "tagline": "",
+            "is_admin": true,
+            "is_active": true,
+            "created_at": "2016-05-13T13:51:51.293Z",
+            "updated_at": "2016-05-15T10:34:27.522Z"
+        }
+    },
+    {
+        "model": "account.account",
+        "pk": 2,
+        "fields": {
+            "password": "pbkdf2_sha256$24000$KM47Bv8EVXu7$acUd2weLOYgf9LJLI2FvnsHHQNx0Q+hoPD7O1OHjYSg=",
+            "last_login": null,
+            "email": "IV@mail.ru",
+            "username": "Ivan",
+            "first_name": "Ivan",
+            "last_name": "Iv",
+            "avatar": "",
+            "tagline": "",
+            "is_admin": false,
+            "is_active": true,
+            "created_at": "2016-05-13T15:16:48.049Z",
+            "updated_at": "2016-05-15T10:31:14.282Z"
+        }
+    },
+    {
+        "model": "account.account",
+        "pk": 3,
+        "fields": {
+            "password": "pbkdf2_sha256$24000$lptNqSTHuY6D$FM7yGBWeZKJ5OhcDc4YxGzN7WcDj1VpqwgMnCwH50eo=",
+            "last_login": null,
+            "email": "spam@mail.ru",
+            "username": "spam",
+            "first_name": "",
+            "last_name": "",
+            "avatar": "",
+            "tagline": "",
+            "is_admin": false,
+            "is_active": true,
+            "created_at": "2016-05-13T15:24:01.354Z",
+            "updated_at": "2016-05-13T15:24:01.354Z"
+        }
+    },
+    {
+        "model": "account.account",
+        "pk": 4,
+        "fields": {
+            "password": "pbkdf2_sha256$24000$9bER4wdWwK7O$HchWyf7naAkBki541qLuIvs+SsNik8Zv0xOBwUtLlHI=",
+            "last_login": null,
+            "email": "foo@mail.ru",
+            "username": "foo",
+            "first_name": "bar",
+            "last_name": "bar",
+            "avatar": "",
+            "tagline": "",
+            "is_admin": false,
+            "is_active": true,
+            "created_at": "2016-05-17T10:22:57.601Z",
+            "updated_at": "2016-05-17T12:15:15.543Z"
+        }
+    }
+]

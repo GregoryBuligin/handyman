@@ -1,0 +1,35 @@
+[
+    {
+        "model": "order.order",
+        "pk": 3,
+        "fields": {
+            "account": 1,
+            "service": 4,
+            "staff": 2,
+            "price": 7,
+            "date": "2016-05-15T09:59:28.961Z"
+        }
+    },
+    {
+        "model": "order.order",
+        "pk": 4,
+        "fields": {
+            "account": 2,
+            "service": 3,
+            "staff": 3,
+            "price": 7,
+            "date": "2016-05-15T09:59:48.492Z"
+        }
+    },
+    {
+        "model": "order.order",
+        "pk": 5,
+        "fields": {
+            "account": 3,
+            "service": 4,
+            "staff": 2,
+            "price": 1000,
+            "date": "2016-05-17T12:17:52.858Z"
+        }
+    }
+]

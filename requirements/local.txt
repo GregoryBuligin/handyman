@@ -1,0 +1,4 @@
+-r base.txt
+
+django-debug-toolbar==1.4
+django-rest-swagger==0.3.6

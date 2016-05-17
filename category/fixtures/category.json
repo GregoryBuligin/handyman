@@ -1,0 +1,29 @@
+[
+    {
+        "model": "category.category",
+        "pk": 7,
+        "fields": {
+            "title": "cat1",
+            "discription": "cat1",
+            "capture": "category/2016/05/13/urb.jpg"
+        }
+    },
+    {
+        "model": "category.category",
+        "pk": 8,
+        "fields": {
+            "title": "cat2",
+            "discription": "cat2",
+            "capture": "category/2016/05/13/smokepipes.jpg"
+        }
+    },
+    {
+        "model": "category.category",
+        "pk": 9,
+        "fields": {
+            "title": "cat3",
+            "discription": "cat3",
+            "capture": "category/2016/05/17/5M82bSwmZNU.jpg"
+        }
+    }
+]
